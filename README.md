@@ -1,7 +1,7 @@
 php-active-record
 =================
 
-A PHP implementation of the active record pattern taken from my personal PHP framework CaPHPy.
+A PHP implementation of the active record pattern.
 
 Usage examples
 --------------
