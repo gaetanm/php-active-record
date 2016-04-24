@@ -59,7 +59,7 @@ class Model
     }
 
     /**
-     * Create iteratively an object for each foreign key of the table.
+     * Creates iteratively an object for each foreign key of the table.
      *
      * @param Model $object
      */
@@ -149,7 +149,7 @@ class Model
     }
 
     /**
-     * Parses input data and return the query and its parameters.
+     * Parses input data and returns the query and its parameters.
      *
      * @param array $data
      *
@@ -246,7 +246,7 @@ class Model
     }
 
     /**
-     * Deletes the actual instance of the database by using his id.
+     * Deletes the actual instance of the database by using its id.
      */
     public function delete()
     {
@@ -420,7 +420,7 @@ class Model
     }
 
     /**
-     * Inserts the data of the actual instance into the database and hydrates his id.
+     * Inserts the data of the actual instance into the database and hydrates its id.
      *
      * @param bool $enableAI
      */
@@ -485,7 +485,7 @@ class Model
     }
 
     /**
-     * Updates the actual instance of the database by using his properties.
+     * Updates the actual instance of the database by using its properties.
      */
     public function update()
     {
