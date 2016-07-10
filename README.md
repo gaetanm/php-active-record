@@ -1,7 +1,7 @@
 php-active-record
 =================
 
-A PHP implementation of the active record pattern.
+A (naive) PHP implementation of the active record pattern.
 
 Usage examples
 --------------
